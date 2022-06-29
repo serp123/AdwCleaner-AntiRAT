@@ -9,3 +9,4 @@ BitDefender and IKARUS engines are used to detect malware on your personal compu
 -------------------------------------------------- -------------------------------------
 Feedback about the scanner itself can be left here: adwcompany.inc@proton.me
 all rights reserved LLC ADV COMPANIES INC
+PASS - ADWSCAN
